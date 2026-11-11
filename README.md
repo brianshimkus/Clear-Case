@@ -22,6 +22,11 @@ Clear Case is currently in product framing. The first milestone is to define the
 - [Product brief](docs/product-brief.md)
 - [Decision log](docs/decision-log.md)
 - [Interview evidence](docs/interview-evidence.md)
+- [Milestone publishing](docs/milestone-publishing.md)
+
+## Build in public
+
+Selected milestones will become articles on [brianshimkus.com/blog](https://www.brianshimkus.com/blog). Posts will focus on the product problem, evidence, decisions, tradeoffs, validation, and what changed. Drafts will be reviewed before publication and will maintain the portfolio boundaries below.
 
 ## Portfolio boundaries
 
